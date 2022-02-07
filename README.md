@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Razor Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)..
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1644267958/media/Screenshot_21_ufuirr.png" title="Razor Site" alt="Razor Website">
 
 ## Available Scripts
 
