@@ -1,6 +1,6 @@
 # Razor Website
 
-<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1644267958/media/Screenshot_21_ufuirr.png" title="Razor Site" alt="Razor Website">.
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1644267958/media/Screenshot_21_ufuirr.png" title="Razor Site" alt="Razor Website">..
 
 ## Available Scripts
 
