@@ -40,18 +40,18 @@ const Footer = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://www.twitter.com/Chuksmbanaso" className="nav-link">
+            <a href="https://www.twitter.com/ChuksJoshuaa" className="nav-link">
               <FaTwitter />
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://github.com/ChuksMbanaso" className="nav-link">
+            <a href="https://github.com/ChuksJoshuaa" className="nav-link">
               <FaGithub />
             </a>
           </li>
           <li className="nav-item">
             <a
-              href="https://www.linkedin.com/in/chuks-mbanaso"
+              href="https://www.linkedin.com/in/chuks-joshuaa"
               className="nav-link"
             >
               <FaLinkedin />
@@ -59,7 +59,7 @@ const Footer = () => {
           </li>
         </ul>
         <p>
-          copyright &copy; Chuks product company
+          copyright &copy; Chuks Razoy company
           <span> {new Date().getFullYear()}</span>. all rights reserved
         </p>
       </div>
